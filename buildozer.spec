@@ -1,5 +1,5 @@
 [app]
-title = Kernel Manager
+title = This Linux
 package.name = kernelmanager
 package.domain = org.test
 source.dir = .

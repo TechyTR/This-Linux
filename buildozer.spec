@@ -1,11 +1,11 @@
 [app]
 title = This Linux
-package.name = kernelmanager
+package.name = thislinux
 package.domain = org.test
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 version = 0.1
-requirements = python3,kivy,plyer,pyjnius
+requirements = python3==3.11.6,kivy,plyer,pyjnius
 orientation = portrait
 fullscreen = 0
 
